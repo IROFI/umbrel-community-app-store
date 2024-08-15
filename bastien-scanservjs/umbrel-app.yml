@@ -2,7 +2,7 @@ manifestVersion: 1
 id: bastien-scanservjs
 name: Scan Serv
 tagline: SANE scanner nodejs web ui
-icon: https://icons.veryicon.com/png/o/business/colorful-office-icons/printer-88.png
+icon: https://svgshare.com/i/19LM.svg
 category: Outils
 version: "1.0.0"
 port: 4000
